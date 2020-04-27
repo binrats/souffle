@@ -1,0 +1,27 @@
+<map id="profile/Tui.h" name="profile/Tui.h">
+<area shape="rect" id="node2" href="$_profile_event_8h.html" title="../ProfileEvent.h" alt="" coords="3959,229,4083,256"/>
+<area shape="rect" id="node27" href="$_html_generator_8h.html" title="HtmlGenerator.h" alt="" coords="592,80,723,107"/>
+<area shape="rect" id="node28" href="$_output_processor_8h.html" title="OutputProcessor.h" alt="" coords="1441,155,1581,181"/>
+<area shape="rect" id="node33" href="$profile_2_table_8h.html" title="Table.h" alt="" coords="1346,379,1414,405"/>
+<area shape="rect" id="node47" href="$_reader_8h.html" title="Reader.h" alt="" coords="3383,155,3462,181"/>
+<area shape="rect" id="node49" href="$_user_input_reader_8h.html" title="UserInputReader.h" alt="" coords="1249,453,1391,480"/>
+<area shape="rect" id="node3" href="$_event_processor_8h.html" title="EventProcessor.h" alt="" coords="4207,304,4340,331"/>
+<area shape="rect" id="node9" href="$_profile_database_8h.html" title="ProfileDatabase.h" alt="" coords="3967,379,4105,405"/>
+<area shape="rect" id="node10" href="$_util_8h.html" title="Util.h" alt="" coords="4221,453,4278,480"/>
+<area shape="rect" id="node39" href="$html_css_chartist_8h.html" title="htmlCssChartist.h" alt="" coords="745,229,884,256"/>
+<area shape="rect" id="node40" href="$html_css_style_8h.html" title="htmlCssStyle.h" alt="" coords="43,229,163,256"/>
+<area shape="rect" id="node41" href="$html_js_chartist_min_8h.html" title="htmlJsChartistMin.h" alt="" coords="157,379,307,405"/>
+<area shape="rect" id="node42" href="$html_js_chartist_plugin_8h.html" title="htmlJsChartistPlugin.h" alt="" coords="546,453,713,480"/>
+<area shape="rect" id="node43" href="$html_js_main_8h.html" title="htmlJsMain.h" alt="" coords="695,155,801,181"/>
+<area shape="rect" id="node44" href="$html_js_table_sort_8h.html" title="htmlJsTableSort.h" alt="" coords="191,155,326,181"/>
+<area shape="rect" id="node45" href="$html_js_util_8h.html" title="htmlJsUtil.h" alt="" coords="351,155,449,181"/>
+<area shape="rect" id="node46" href="$html_main_8h.html" title="htmlMain.h" alt="" coords="474,155,569,181"/>
+<area shape="rect" id="node29" href="$_cell_8h.html" title="Cell.h" alt="" coords="1161,229,1220,256"/>
+<area shape="rect" id="node30" href="$_cell_interface_8h.html" title="CellInterface.h" alt="" coords="1413,528,1531,555"/>
+<area shape="rect" id="node31" href="$_string_utils_8h.html" title="StringUtils.h" alt="" coords="1705,304,1807,331"/>
+<area shape="rect" id="node32" href="$_row_8h.html" title="Row.h" alt="" coords="1669,453,1729,480"/>
+<area shape="rect" id="node35" href="$_iteration_8h.html" title="Iteration.h" alt="" coords="2586,379,2675,405"/>
+<area shape="rect" id="node36" href="$_rule_8h.html" title="Rule.h" alt="" coords="2818,453,2881,480"/>
+<area shape="rect" id="node37" href="$_program_run_8h.html" title="ProgramRun.h" alt="" coords="2625,229,2738,256"/>
+<area shape="rect" id="node38" href="$_relation_8h.html" title="Relation.h" alt="" coords="2638,304,2725,331"/>
+</map>

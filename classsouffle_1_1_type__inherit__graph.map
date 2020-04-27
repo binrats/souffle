@@ -1,0 +1,7 @@
+<map id="souffle::Type" name="souffle::Type">
+<area shape="rect" id="node2" href="$classsouffle_1_1_constant_type.html" title="Representing the type assigned to a constant. " alt="" coords="5,292,168,369"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1_record_type.html" title="A record type combining a list of fields into a new, aggregated type. " alt="" coords="193,270,341,391"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_subset_type.html" title="A type being a subset of another type. " alt="" coords="365,277,513,384"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_union_type.html" title="A union type combining a list of types into a new, aggregated type. " alt="" coords="537,263,695,399"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_primitive_type.html" title="PrimitiveType = Number/Unsigned/Float/Symbol The class representing pre&#45;built, concrete types..." alt="" coords="357,447,520,539"/>
+</map>

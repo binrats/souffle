@@ -1,0 +1,51 @@
+<map id="souffle::MaterializeAggregationQueriesTransformer::materializeAggregationQueries" name="souffle::MaterializeAggregationQueriesTransformer::materializeAggregationQueries">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#a776167026cb9e348e75a9e9caa02ef74" title="add a clause " alt="" coords="405,175,555,217"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#ad31c2a7d5d1985b869aa59c41b773fa5" title="souffle::AstProgram\l::addRelation" alt="" coords="405,306,555,347"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="693,245,841,272"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type_analysis.html#a353dd3e674e73c89e7d2c7434f03fc3e" title="Analyse the given clause and computes for each contained argument a set of potential types..." alt="" coords="401,1074,559,1115"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_argument.html#a5f13087d708e0117ec3a913c7ffc3ad8" title="Create clone. " alt="" coords="401,1139,559,1181"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="671,297,864,338"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1259,965,1398,1006"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="969,1023,1135,1065"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#a007a45afc198f8e8bdda35c50da5f26b" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="381,663,579,689"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="406,1205,554,1246"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_aggregator.html#adf64f4a66f682da44e78fd000743e1ea" title="Get aggregate operator. " alt="" coords="397,1270,563,1311"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="383,1335,577,1377"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#a4e502e6abb9a3e9a8e4c1168dbf23743" title="Determines whether the given type is a number type. " alt="" coords="397,241,563,268"/>
+<area shape="rect" id="node46" href="$namespacesouffle.html#a67fd524841b8a60b1bb50b18dc868c7c" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="364,1401,596,1428"/>
+<area shape="rect" id="node47" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="417,1452,543,1479"/>
+<area shape="rect" id="node48" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="396,1503,564,1529"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1277,224,1381,251"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="get relations " alt="" coords="1253,523,1404,565"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1494,888,1641,915"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_constraint_analysis.html#af22129c80f7cc902684a64c94887f3dd" title="Runs this constraint analysis on the given clause. " alt="" coords="659,1074,876,1115"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="973,322,1131,363"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="971,388,1133,415"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="get arguments " alt="" coords="1213,863,1444,889"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="get arguments " alt="" coords="939,921,1165,948"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_negation.html#a587c8d4fdcfc28f128cc3ff2cf97895c" title="get negated atom " alt="" coords="690,362,845,403"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="698,427,837,469"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="get LHS argument " alt="" coords="665,493,869,534"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="get binary operator " alt="" coords="665,558,869,599"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_relation_detail_cache.html#a726bbb81db5e075d6d62bda73c4e0188" title="souffle::RelationDetailCache\l::getRelation" alt="" coords="664,623,871,665"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="get RHS argument " alt="" coords="665,689,869,730"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_type_cast.html#a4fe729dc92cd0e38102249123acbc317" title="Get value. " alt="" coords="690,754,845,795"/>
+<area shape="rect" id="node26" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="683,820,851,847"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_type_environment.html#afb7bfce80a9e7dabd4c46cbac13c201d" title="souffle::TypeEnvironment\l::getConstantType" alt="" coords="674,129,861,170"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="644,195,891,221"/>
+<area shape="rect" id="node32" href="$namespacesouffle.html#a0df5320dfcc5fe6ad9bbda0edc5876bc" title="Returns the type with the given name in the program. " alt="" coords="989,165,1115,192"/>
+<area shape="rect" id="node34" href="$namespacesouffle.html#af3da091713611efb4c937fa93ec8f20f" title="souffle::fatal" alt="" coords="1000,111,1104,137"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_program.html#a0eca120e93df25229f5a39e6895137c2" title="get types " alt="" coords="1253,158,1404,199"/>
+<area shape="rect" id="node35" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1257,107,1400,133"/>
+<area shape="rect" id="node36" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1492,107,1643,133"/>
+<area shape="rect" id="node42" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1691,173,1896,200"/>
+<area shape="rect" id="node37" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1725,107,1861,149"/>
+<area shape="rect" id="node43" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1726,5,1861,32"/>
+<area shape="rect" id="node44" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1721,56,1866,83"/>
+<area shape="rect" id="node38" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1945,42,2131,83"/>
+<area shape="rect" id="node39" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1944,107,2132,149"/>
+<area shape="rect" id="node41" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1963,173,2113,214"/>
+<area shape="rect" id="node40" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="2180,107,2344,149"/>
+<area shape="rect" id="node49" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="683,1495,851,1537"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="957,1495,1147,1537"/>
+</map>

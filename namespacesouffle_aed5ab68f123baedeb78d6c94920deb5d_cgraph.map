@@ -1,0 +1,12 @@
+<map id="souffle::getGreatestCommonSubtypes" name="souffle::getGreatestCommonSubtypes">
+<area shape="rect" id="node2" href="$structsouffle_1_1_type_set.html#a2110dea550ae2c1eaf6ef65e2854f925" title="Emptiness check. " alt="" coords="282,55,457,82"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#abb20659f25b4513908b813cfdbf43e23" title="Computes the greatest common sub types of the two given types. " alt="" coords="264,107,475,148"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_type_set.html#ad779397583248bcbf50b982e5314c2e2" title="Adds the given type to this set. " alt="" coords="523,173,693,199"/>
+<area shape="rect" id="node11" href="$structsouffle_1_1_type_set.html#ae26622401685d8ac9080b2f5a83d7eaa" title="Universality check. " alt="" coords="289,223,450,250"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_union_type.html#a0175bce933a70c1d3691114860ac17fc" title="souffle::UnionType\l::getElementTypes" alt="" coords="537,5,679,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="741,71,988,98"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="531,122,685,149"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type.html#a20e79bbb43ee4cbc52e16a81d8621d7a" title="souffle::Type::print" alt="" coords="793,13,936,39"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="809,122,920,149"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="805,173,924,199"/>
+</map>

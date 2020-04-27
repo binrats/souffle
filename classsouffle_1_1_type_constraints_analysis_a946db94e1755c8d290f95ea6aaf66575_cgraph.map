@@ -1,0 +1,8 @@
+<map id="souffle::TypeConstraintsAnalysis::visitBinaryConstraint" name="souffle::TypeConstraintsAnalysis::visitBinaryConstraint">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="get LHS argument " alt="" coords="276,5,480,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="get RHS argument " alt="" coords="276,71,480,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="301,137,455,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="596,86,707,113"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="592,137,711,163"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="528,187,775,214"/>
+</map>

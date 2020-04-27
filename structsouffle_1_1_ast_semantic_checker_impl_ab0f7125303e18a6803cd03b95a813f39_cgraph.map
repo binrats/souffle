@@ -1,0 +1,26 @@
+<map id="souffle::AstSemanticCheckerImpl::checkWitnessProblem" name="souffle::AstSemanticCheckerImpl::checkWitnessProblem">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a0c2e151bc853490e6210c33c8fd127be" title="add argument to the atom " alt="" coords="263,257,489,283"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="303,308,449,349"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="307,577,445,619"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="831,5,970,47"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#add2fdec7fa7790b1ff3cb0b8bc8e5a88" title="souffle::usesInvalidWitness" alt="" coords="276,489,476,515"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="553,783,721,810"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="537,308,737,349"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1086,657,1233,683"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="554,508,721,549"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a007a45afc198f8e8bdda35c50da5f26b" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="539,425,736,451"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="804,267,997,308"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="get arguments " alt="" coords="785,631,1016,658"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="get arguments " alt="" coords="787,333,1014,359"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_negation.html#a587c8d4fdcfc28f128cc3ff2cf97895c" title="get negated atom " alt="" coords="823,71,978,112"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="get LHS argument " alt="" coords="799,136,1003,177"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="get binary operator " alt="" coords="799,201,1003,243"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_relation_detail_cache.html#a726bbb81db5e075d6d62bda73c4e0188" title="souffle::RelationDetailCache\l::getRelation" alt="" coords="797,384,1004,425"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="get RHS argument " alt="" coords="799,449,1003,491"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_type_cast.html#a4fe729dc92cd0e38102249123acbc317" title="Get value. " alt="" coords="823,515,978,556"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="817,581,985,607"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1078,245,1241,271"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="1080,296,1239,337"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="817,784,985,825"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1064,784,1255,825"/>
+</map>

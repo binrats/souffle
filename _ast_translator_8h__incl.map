@@ -1,0 +1,25 @@
+<map id="AstTranslator.h" name="AstTranslator.h">
+<area shape="rect" id="node2" href="$_ast_argument_8h.html" title="AstArgument.h" alt="" coords="1530,229,1649,256"/>
+<area shape="rect" id="node8" href="$_util_8h.html" title="Util.h" alt="" coords="754,453,812,480"/>
+<area shape="rect" id="node32" href="$_ast_qualified_name_8h.html" title="AstQualifiedName.h" alt="" coords="746,379,898,405"/>
+<area shape="rect" id="node34" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="3063,379,3180,405"/>
+<area shape="rect" id="node40" href="$_aux_arity_analysis_8h.html" title="AuxArityAnalysis.h" alt="" coords="2057,80,2202,107"/>
+<area shape="rect" id="node45" href="$_ram_relation_8h.html" title="RamRelation.h" alt="" coords="1407,304,1524,331"/>
+<area shape="rect" id="node47" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="460,379,570,405"/>
+<area shape="rect" id="node48" href="$_record_table_8h.html" title="RecordTable.h" alt="" coords="3356,453,3468,480"/>
+<area shape="rect" id="node50" href="$json11_8h.html" title="json11.h" alt="" coords="2660,453,2738,480"/>
+<area shape="rect" id="node3" href="$_aggregate_op_8h.html" title="AggregateOp.h" alt="" coords="1560,379,1678,405"/>
+<area shape="rect" id="node28" href="$_ast_abstract_8h.html" title="AstAbstract.h" alt="" coords="2370,304,2479,331"/>
+<area shape="rect" id="node29" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="2362,379,2452,405"/>
+<area shape="rect" id="node31" href="$_ast_type_8h.html" title="AstType.h" alt="" coords="1814,304,1899,331"/>
+<area shape="rect" id="node33" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="1074,379,1180,405"/>
+<area shape="rect" id="node4" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="1951,528,2052,555"/>
+<area shape="rect" id="node9" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="478,528,581,555"/>
+<area shape="rect" id="node35" href="$_parallel_utils_8h.html" title="ParallelUtils.h" alt="" coords="3566,528,3678,555"/>
+<area shape="rect" id="node41" href="$_ast_analysis_8h.html" title="AstAnalysis.h" alt="" coords="888,453,998,480"/>
+<area shape="rect" id="node42" href="$_ast_literal_8h.html" title="AstLiteral.h" alt="" coords="2474,229,2570,256"/>
+<area shape="rect" id="node43" href="$_ast_program_8h.html" title="AstProgram.h" alt="" coords="2074,229,2185,256"/>
+<area shape="rect" id="node44" href="$_ast_translation_unit_8h.html" title="AstTranslationUnit.h" alt="" coords="2470,155,2624,181"/>
+<area shape="rect" id="node46" href="$_ram_node_8h.html" title="RamNode.h" alt="" coords="1428,453,1527,480"/>
+<area shape="rect" id="node49" href="$_compiled_tuple_8h.html" title="CompiledTuple.h" alt="" coords="3211,528,3342,555"/>
+</map>

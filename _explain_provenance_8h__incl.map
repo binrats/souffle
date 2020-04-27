@@ -1,0 +1,15 @@
+<map id="ExplainProvenance.h" name="ExplainProvenance.h">
+<area shape="rect" id="node2" href="$_explain_tree_8h.html" title="ExplainTree.h" alt="" coords="1980,304,2089,331"/>
+<area shape="rect" id="node3" href="$_util_8h.html" title="Util.h" alt="" coords="1615,379,1673,405"/>
+<area shape="rect" id="node4" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="2337,453,2439,480"/>
+<area shape="rect" id="node36" href="$_souffle_interface_8h.html" title="SouffleInterface.h" alt="" coords="2598,229,2735,256"/>
+<area shape="rect" id="node44" href="$_write_stream_c_s_v_8h.html" title="WriteStreamCSV.h" alt="" coords="2183,80,2321,107"/>
+<area shape="rect" id="node11" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="297,453,399,480"/>
+<area shape="rect" id="node37" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="2912,304,3029,331"/>
+<area shape="rect" id="node38" href="$_parallel_utils_8h.html" title="ParallelUtils.h" alt="" coords="2743,453,2855,480"/>
+<area shape="rect" id="node45" href="$_write_stream_8h.html" title="WriteStream.h" alt="" coords="3356,155,3471,181"/>
+<area shape="rect" id="node46" href="$_record_table_8h.html" title="RecordTable.h" alt="" coords="3104,379,3216,405"/>
+<area shape="rect" id="node48" href="$_serialisation_stream_8h.html" title="SerialisationStream.h" alt="" coords="3392,229,3555,256"/>
+<area shape="rect" id="node49" href="$json11_8h.html" title="json11.h" alt="" coords="3443,379,3520,405"/>
+<area shape="rect" id="node47" href="$_compiled_tuple_8h.html" title="CompiledTuple.h" alt="" coords="3077,453,3208,480"/>
+</map>

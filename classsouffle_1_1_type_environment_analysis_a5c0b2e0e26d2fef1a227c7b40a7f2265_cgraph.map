@@ -1,0 +1,37 @@
+<map id="souffle::TypeEnvironmentAnalysis::TypeEnvironmentAnalysis" name="souffle::TypeEnvironmentAnalysis::TypeEnvironmentAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1_type_environment_analysis.html#a66b5b6e1714591444b0a3532aa6c4ade" title="print the analysis result in HTML format " alt="" coords="307,144,493,185"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type_environment_analysis.html#aa6a6d9bd16fcd0abb5f9ba94e84ec0ac" title="run analysis for a Ast translation unit " alt="" coords="307,389,493,431"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_type_environment.html#a98258475e62fbad20f1d5794a4108a27" title="souffle::TypeEnvironment\l::print" alt="" coords="586,5,773,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="583,421,776,463"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html#a0eca120e93df25229f5a39e6895137c2" title="get types " alt="" coords="1335,64,1485,105"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type_environment_analysis.html#a47746929fc9460e8fe61fbf9a0889ddd" title="Populate Type Environment with Ast Types. " alt="" coords="586,247,773,288"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_type_environment_analysis.html#a6ec0982c27041074565ac2452cfab196" title="Link unions and records to their types. " alt="" coords="586,525,773,567"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_type_environment_analysis.html#adcc3919c97ab13dde0c729a8ffb39f36" title="Create a type dependency graph. " alt="" coords="541,356,817,397"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_type_environment_analysis.html#aa54e1cabeffc9e1299443b1f23d1a130" title="Find cyclic unions. " alt="" coords="569,672,789,713"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_type_environment_analysis.html#a19168baf6e427bea5b079cf0c763c8d3" title="Check intersections of unions with primitive types. " alt="" coords="563,763,795,819"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1535,71,1682,98"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_environment.html#a5ead83575e9abfebb3a0b180a33a7d96" title="souffle::TypeEnvironment\l::isType" alt="" coords="1100,525,1287,567"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_type_environment.html#ae15510ad5cb82c10bf06aee7f558d8d7" title="souffle::TypeEnvironment\l::createSubsetType" alt="" coords="865,123,1052,164"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#af3da091713611efb4c937fa93ec8f20f" title="souffle::fatal" alt="" coords="1141,279,1245,306"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_type_environment.html#a1037c7619e2893fac49271fb78156ad1" title="souffle::TypeEnvironment\l::createType" alt="" coords="865,188,1052,229"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a0df5320dfcc5fe6ad9bbda0edc5876bc" title="Returns the type with the given name in the program. " alt="" coords="1131,130,1256,157"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1339,279,1481,306"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1533,279,1684,306"/>
+<area shape="rect" id="node21" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1732,178,1937,205"/>
+<area shape="rect" id="node14" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1767,280,1903,321"/>
+<area shape="rect" id="node22" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1767,229,1902,255"/>
+<area shape="rect" id="node23" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1762,346,1907,373"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1987,215,2172,256"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1985,280,2173,321"/>
+<area shape="rect" id="node20" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="2004,345,2155,387"/>
+<area shape="rect" id="node17" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="2448,251,2612,292"/>
+<area shape="rect" id="node18" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="2221,309,2400,351"/>
+<area shape="rect" id="node19" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="2462,316,2598,357"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1358,130,1462,157"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_type_environment.html#ada544cc106c8c80c9120e2c1d1424ebf" title="souffle::TypeEnvironment\l::getType" alt="" coords="865,660,1052,701"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_union_type.html#a980e743dd021a43aa1ab0548a1ad6faf" title="souffle::UnionType::add" alt="" coords="871,558,1046,585"/>
+<area shape="rect" id="node30" href="$structsouffle_1_1_record_type.html#a44e9c68ca7f7428f44c6f6ac9fd48181" title="The list of contained fields. " alt="" coords="869,609,1049,635"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_graph.html#a8aa22759dcb069b37180e193b67a060c" title="Adds a new edge from the given vertex to the target vertex. " alt="" coords="879,406,1038,433"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_graph.html#a98011f8cbf34ce1fe189beadd683bd8e" title="Determines whether there is a directed path between the two vertices. " alt="" coords="873,791,1045,818"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_union_type.html#ac0b0d52a50cc41ef9540dc7bde06d091" title="souffle::UnionType\l::clear" alt="" coords="887,725,1030,767"/>
+</map>
